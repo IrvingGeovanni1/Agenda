@@ -1,5 +1,5 @@
 .Home{
-    background-color: #ffffff;
+    background-color: transparent;
     color: black;
     padding: 10px 20px;
     border: none;
@@ -10,7 +10,7 @@
     
 }
 .profile{
-    background-color: #ffffff; /* Color de fondo */
+    background-color: transparent; /* Color de fondo */
     color: rgb(0, 0, 0); /* Color del texto */
     padding: 10px 20px; /* Padding */
     border: none; /* Sin borde */
@@ -20,7 +20,7 @@
     text-decoration:none;
 }
 .Calendar{
-    background-color: #ffffff;
+    background-color: transparent;
     padding: 10px 20px;
     position: relative;
     border:none;
