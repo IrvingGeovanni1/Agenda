@@ -1,35 +1,5 @@
-.Home{
-    background-color: transparent;
-    color: black;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor:pointer;
-    text-align: center;
-    text-decoration: underline;
-    
-}
-.profile{
-    background-color: transparent; /* Color de fondo */
-    color: rgb(0, 0, 0); /* Color del texto */
-    padding: 10px 20px; /* Padding */
-    border: none; /* Sin borde */
-    border-radius: 5px; /* Bordes redondeados */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
-    text-align: center; /* Alinea el texto al centro */
-    text-decoration:none;
-}
-.Calendar{
-    background-color: transparent;
-    padding: 10px 20px;
-    position: relative;
-    border:none;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
+body{
+    margin: 0;
+    padding: 0;
 
-        
-}
-.Tareas{
-    padding-left: 500px;
 }
